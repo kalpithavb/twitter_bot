@@ -6,7 +6,7 @@ Create a welcome message for your new followers on twitter.
 To develop this bot we need:
 
 -   Node js installed
--   [Twit](https://medium.com/r/?url=https%3A%2F%2Fgithub.com%2Fttezel%2Ftwit) : Twitter API Client for node (REST & Streaming API)
+-   [Twit](https://medium.com/r/?url=https%3A%2F%2Fgithub.com%2Fttezel%2Ftwit) : Twitter API Client for node
 -   [Github Account](https://medium.com/r/?url=https%3A%2F%2Fgithub.com%2F)
 -   [Twitter Account](https://medium.com/r/?url=https%3A%2F%2Ftwitter.com%2F)
 -   [Heroku Account](https://medium.com/r/?url=https%3A%2F%2Fwww.heroku.com%2F) to deploy the bot.
